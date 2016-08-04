@@ -1,0 +1,22 @@
+{
+  "name": "namespace-imports-loader",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kayne Barclay @kayneb"
+  },
+  "description": "namespace imports loader module for webpack",
+  "dependencies": {
+    "loader-utils": "0.2.x",
+    "source-map": "0.1.x"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayneb/namespace-imports-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kayneb/namespace-imports-loader/issues"
+  },
+  "homepage": "https://github.com/kayneb/namespace-imports-loader"
+}
+
